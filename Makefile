@@ -1,4 +1,4 @@
-all: short-all #index.html index.docx index.txt
+all: short-all extended-all #index.html index.docx index.txt
 
 #index.html: index.md style.css
 	#@sass sass/abridge.scss abridge.css
@@ -13,17 +13,8 @@ all: short-all #index.html index.docx index.txt
 #index.txt: index.md
 	#pandoc -f markdown+smart -t markdown-smart --from markdown --to plain -o index.txt index.md
 
-short-all:
-	@cat short/head.md short/luis-ti.es.md 1> short/index.md
-	@cat short/head.es.md short/luis-ti.es.md 1> short/index.es.md
-	@cat short/head.pt.md short/luis-ti.pt.md 1> short/index.pt.md
-	echo sucesso
+test:
+	@cat short/head.md src/CV-Luis-Martinez.md 1> target/index.md
 
-extended-all:
-	@cat extended/head.md short/luis-ti.es.md 1> extended/index.md
-	@cat extended/head.es.md short/luis-ti.es.md 1> extended/index.es.md
-	@cat extended/head.pt.md short/luis-ti.pt.md 1> extended/index.pt.md
-	echo sucesso
-
-clean:
-	rm -f *.html *.pdf *.docx *.txt
+#clean:
+#	rm -f *.html *.pdf *.docx *.txt
