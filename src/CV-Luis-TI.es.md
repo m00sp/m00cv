@@ -1,16 +1,16 @@
 ## <center>Luis Ricardo Martínez Díaz</center>
 
 ---
->E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil. </br> Sitio web personal: [www.luis-ti.dev.br](https://www.luis-ti.dev.br).
+>E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil. </br> Página web: [www.luis-ti.dev.br](https://www.luis-ti.dev.br).
 ----
 ----
 #### **Habilidades**
 -------
 ----
-Lenguajes de programación y Tecnologías
-:	Rust, Posix shell, Lua, Docker, git, Makefile, k8s, HTML, SSH,Markdown, SASS, CSS. </br>
-OSes:	Linux, windows, macOS y android. Mi sistema operativo de uso diario es Alpine Linux.</br>
-Idiomas
+- **Lenguajes de programación y Tecnologías**
+:	Rust, Posix shell, Lua, Docker, git, Makefile, k8s, HTML, SSH, Markdown, SASS, CSS. </br>
+- **OSes**:	Linux, Windows, macOS y Android. Mi sistema operativo de uso diario es Alpine Linux. </br>
+- **Idiomas**
 :   *Inglés* y *Portugués*. Nivel fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
 
 ----
@@ -18,10 +18,11 @@ Idiomas
 #### **Experiencia**
 -----------
 ----
-2010
-:   Acá ya va otra cosa.
+2011-2013
+:   UNSAM (Universidad Nacional de San Martín).
 
-- Acá también.
+- Docencia, ayudante de cátedra. Materia: Lógica.
+- Becario del Consejo Interuniversitario Nacional (CIN). Beca de estimulo a la vocación científica.
 
 ----
 2006-2010
@@ -51,7 +52,7 @@ Idiomas
 #### **Contribuciones Open Source**
 ----
 ----
-- Traducciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras. Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
+- Traducciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras. Colaboro con diversas traducciones al español y al portugués para projectos de código abierto, la mayoría disponível en github.
 
 ----
 Mis projectos
