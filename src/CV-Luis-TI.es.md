@@ -8,7 +8,7 @@
 -------
 ----
 Lenguajes de programación y Tecnologías
-:	Rust, Posix shell, Lua, Docker, git, Makefile. </br>
+:	Rust, Posix shell, Lua, Docker, git, Makefile, k8s, HTML, SSH,Markdown, SASS, CSS. </br>
 OSes:	Linux, windows, macOS y android. Mi sistema operativo de uso diario es Alpine Linux.</br>
 Idiomas
 :   *Inglés* y *Portugués*. Nivel fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
@@ -40,23 +40,24 @@ Idiomas
 ----
 ----
 2004-2014
-:       *Licenciatura y profesorado en Filosofía*, **incompleto**. UNSAM (Universidad Nacional de San Martín), Buenos Aires, Argentina.
+:       *Licenciatura y profesorado en Filosofía*, UNSAM (Universidad Nacional de San Martín), Buenos Aires, Argentina. **Incompleto**.
 
 ----
 1997-2002
-:       *Técnico Electromecánico.* E.E.T Nº 2 Alemania (Escuela de Educación Técnica), Buenos Aires, Argentina.
+:       *Bachiller con orientación en bienes y servicios, especialidad Electromecánica*. E. E. T. Nº 2 Alemania (Escuela de Educación Técnica), Buenos Aires, Argentina. **Completo**.
 
 ----
 ----
 #### **Contribuciones Open Source**
 ----
 ----
-2024
-:   Traducciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras. Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
+- Traducciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras. Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
 
 ----
-2024
-:	Mis projectos: *[m00wm](https://github.com/m00sp/m00wm)*, un gestor de ventanas en mosaico escrito en el lenguaje de programación *[Rust](https://rust-lang.org)* para el sistema operativo *[Alpine Linux](https://alpinelinux.org)* integrable con *[Plasma Desktop](https://kde.org/plasma-desktop/)* de *[KDE](https://kde.org)*.
+Mis projectos
+:
+- *[m00wm](https://github.com/m00sp/m00wm)*, un gestor de ventanas en mosaico escrito en el lenguaje de programación *[Rust](https://rust-lang.org)* para el sistema operativo *[Alpine Linux](https://alpinelinux.org)* integrable con *[Plasma Desktop](https://kde.org/plasma-desktop/)* de *[KDE](https://kde.org)*. En fase **Beta**.
 
+- *[m00alpineupdate](https://github.com/m00sp/m00alpineupdate)*, un gestor de actualizaciones escrito en el lenguaje de programación *[Rust](https://rust-lang.org)* para el sistema operativo *[Alpine Linux](https://alpinelinux.org)*.  **idem.**.
 
 ----
