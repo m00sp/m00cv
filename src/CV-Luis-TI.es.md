@@ -8,21 +8,33 @@
 -------
 ----
 - **Lenguajes de programación y Tecnologías**
-:	Rust, Posix shell, Lua, Docker, git, Makefile, k8s, HTML, SSH, Markdown, SASS, CSS. </br>
+:	Rust, Posix shell, Lua, Docker, git, Makefile, k8s, HTML,  Markdown, SASS, SCSS, CSS, CI/CD. </br>
 - **OSes**:	Linux, Windows, macOS y Android. Mi sistema operativo de uso diario es Alpine Linux. </br>
 - **Idiomas**
-:   *Inglés* y *Portugués*. Nivel fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
+:   *Inglés* y *Portugués*. Nivel avanzado, hablado y escrito.
 
 ----
 ----
 #### **Experiencia**
 -----------
 ----
-2011-2013
-:   UNSAM (Universidad Nacional de San Martín).
+2015-Presente
+:	Trabajando como Programador Autónomo y brindando asistencia técnica, presencial y remota, a usuarios finales.
+- Soporte técnico directo en Hardware y Software. **Hardware**, computadores de escritorio y notebooks, manuntención, limpieza, actualización y optimización. Cambios, HDs, placas de video, procesadores, adición de memoria RAM, etc. **Software**,  administración de sistemas operativos Linux, Android y Windows NT, migración de datos, copias de respaldo, escaneo y monitoreo de redes, configuración de servicios varios.
 
-- Docencia, ayudante de cátedra. Materia: Lógica.
-- Becario del Consejo Interuniversitario Nacional (CIN). Beca de estimulo a la vocación científica.
+2014
+:	Fuerza Bruta Wayra CCR (Centro Cultural Recoleta), Capital Federal, Buenos Aires, Argentina.
+- Rigger. Técnico de seguridad en altura. Durante el cierre de año.
+
+2014
+:	Plan [FinEs](https://www.argentina.gob.ar/educacion/fines), Buenos Aires, Argentina.
+- Profesor de diversas materias durante todo el año en diferentes polos educativos.
+
+2011-2013
+:   [UNSAM Escuela de humanidades](https://www.unsam.edu.ar/escuelas/eh/), (Universidad Nacional de San Martín), Buenos Aires, Argentina.
+
+- Docencia: ayudante de cátedra. Materia: Lógica.
+- Becario del [CIN](https://www.cin.edu.ar/) (Consejo Inteuniversitario Nacional). Estímulo a la vocación científica.
 
 ----
 2006-2010
@@ -57,7 +69,7 @@
 ----
 Mis projectos
 :
-- *[m00wm](https://github.com/m00sp/m00wm)*, un gestor de ventanas en mosaico escrito en el lenguaje de programación *[Rust](https://rust-lang.org)* para el sistema operativo *[Alpine Linux](https://alpinelinux.org)* integrable con *[Plasma Desktop](https://kde.org/plasma-desktop/)* de *[KDE](https://kde.org)*. En fase **Beta**.
+- *[m00wm](https://github.com/m00sp/m00wm)*, un gestor de ventanas en mosaico escrito en el lenguaje de programación *[Rust](https://rust-lang.org)* para el sistema operativo *[Alpine Linux](https://alpinelinux.org)* integrable con *[Plasma Desktop](https://kde.org/plasma-desktop/)* de *[KDE](https://kde.org)*. En fase de **desarrollo**.
 
 - *[m00alpineupdate](https://github.com/m00sp/m00alpineupdate)*, un gestor de actualizaciones escrito en el lenguaje de programación *[Rust](https://rust-lang.org)* para el sistema operativo *[Alpine Linux](https://alpinelinux.org)*.  **idem.**.
 
