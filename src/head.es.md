@@ -1,5 +1,5 @@
 +++
-title = "CV"
+title = "Mi CV"
 description = "Aquí podés ver mi CV"
 date = "2024-08-14"
 updated = "2024-08-13"
